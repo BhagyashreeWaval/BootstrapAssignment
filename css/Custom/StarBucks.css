@@ -1,0 +1,51 @@
+
+.header{
+background-color: darkgreen;
+padding:5px;
+padding-bottom:0px
+}
+
+.logo{ 
+width: 18%;
+padding-bottom: 1%;
+}
+
+.menuList{
+float: right;
+}
+
+.menu{
+padding: 0px;
+}
+
+.menuLink{
+border-color: green;
+border-width: thin;
+border-style: solid;
+background-color: green;
+color: white;
+text-decoration: blink;
+}
+
+
+.dropDownList{
+display:none;
+background-color:green;
+min-width: 40px;
+overflow: auto;
+position: absolute;
+}
+
+.Content{
+background-color:#f7f7f7;
+padding:5px;
+
+}
+
+.descriptionText{
+text-align: justify;
+}
+
+.footer{
+background-color: darkgreen;color:white;
+}
